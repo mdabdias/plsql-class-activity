@@ -160,3 +160,4 @@ To verify the package works correctly, a series of test scripts were written:
 
 # Comments By Each Member
 - **Musoni Nshuti Sam:** Created Organization, helped develop scripts and take screenshots, guided other members.
+- **Doris Akimana:** A common understanding of triggers with the help of team members.
