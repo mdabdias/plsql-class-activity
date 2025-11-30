@@ -1,7 +1,8 @@
 # plsql-class-activity
 ## *Group Members:*
 - Musoni Nshuti Sam 28857
-
+- Doris Akimana 26675
+  
 # Scenario 1: AUCA System Access Policy
 This project implements the AUCA System Access Policy using Oracle SQL and PL/SQL triggers.
 The goal is to enforce strict rules about when users are allowed to access or modify system data, and to automatically block and log any unauthorized attempts.
